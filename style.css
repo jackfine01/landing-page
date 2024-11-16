@@ -67,8 +67,7 @@ ul{
 .content-image{
     display: flex;
     flex-direction: row;
-    padding: 8px;
-    margin: 80px;
+    margin-top: 20px;
 }
 
 .content{
@@ -76,6 +75,8 @@ ul{
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
+    height: 300px;
+    width: 300px
 }
 
 .i{
@@ -83,6 +84,8 @@ ul{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    height: 300px;
+    width: 300px;
 }
 
 .content,
