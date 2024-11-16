@@ -65,6 +65,7 @@ ul{
 .content-image{
     display: flex;
     flex-direction: row;
+    margin: 80px;
 }
 
 .content{
@@ -92,6 +93,9 @@ ul{
 .Sign-Up-Top{
     display: flex;
     flex: 0 0 auto;
-    width: 64px;
-    padding: 4px;
+    width: 100px;
+    height: 32px;
+    margin: 8px;
+    justify-content: center;
+    align-items: center;
 }
