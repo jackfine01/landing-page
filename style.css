@@ -1,6 +1,8 @@
 body{
     display: flex;
     flex-direction: column;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .header{
@@ -46,6 +48,14 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
+}
+
+.links,
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 16px;
 }
 
 .content-image{
