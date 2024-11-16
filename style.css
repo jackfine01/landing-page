@@ -1,13 +1,15 @@
 body{
     display: flex;
     flex-direction: column;
-    padding-left: 80px;
-    padding-right: 80px;
 }
 
 .header{
     display: flex;
     flex-direction: column;
+    background-color: blue;
+    color: white;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 .information{
@@ -41,6 +43,7 @@ body{
 
 .logo{
     font-weight: bold;
+    font-size: 48px;
 }
 
 .links{
