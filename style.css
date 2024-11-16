@@ -65,6 +65,7 @@ ul{
 .content-image{
     display: flex;
     flex-direction: row;
+    padding: 8px;
     margin: 80px;
 }
 
