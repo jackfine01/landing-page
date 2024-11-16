@@ -102,3 +102,7 @@ ul{
     justify-content: center;
     align-items: center;
 }
+
+img{
+    max-width: fit-content;
+}
