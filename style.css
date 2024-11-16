@@ -84,7 +84,7 @@ ul{
 .content,
 .i
 {
-    width: 600px;
+    width: 400px;
     flex: 1 0 auto;
     padding: 8px;
 }
@@ -93,5 +93,6 @@ ul{
     display: flex;
     flex: 0 0 auto;
     width: 64px;
-    height: 32px:
+    height: 32px;
+    padding: 8px;
 }
