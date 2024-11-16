@@ -93,4 +93,5 @@ ul{
     display: flex;
     flex: 0 0 auto;
     padding: 8px 16px;
+    width: 32px;
 }
