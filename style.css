@@ -6,7 +6,7 @@ body{
 .header{
     display: flex;
     flex-direction: column;
-    background-color: blue;
+    background-color: #1F2937;
     color: white;
     padding-left: 80px;
     padding-right: 80px;
@@ -86,4 +86,5 @@ ul{
 {
     width: 600px;
     flex: 1 0 auto;
+    padding: 8px;
 }
