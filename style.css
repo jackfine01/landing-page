@@ -76,3 +76,10 @@ ul{
     justify-content: center;
     align-items: center;
 }
+
+.content,
+.i
+{
+    width: 600;
+    flex: 1 0 auto;
+}
