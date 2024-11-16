@@ -88,3 +88,9 @@ ul{
     flex: 1 0 auto;
     padding: 8px;
 }
+
+.Sign-Up-Top{
+    display: flex;
+    flex: 0 0 auto;
+    padding: 8px 16px;
+}
