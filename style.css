@@ -29,3 +29,31 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.logo-links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-weight: bold;
+}
+
+.links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.content-image{
+    display: flex;
+    flex-direction: row;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+}
