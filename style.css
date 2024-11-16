@@ -92,6 +92,6 @@ ul{
 .Sign-Up-Top{
     display: flex;
     flex: 0 0 auto;
-    padding: 8px 16px;
-    width: 32px;
+    width: 64px;
+    height: 32px:
 }
