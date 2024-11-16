@@ -76,7 +76,8 @@ ul{
     flex-direction: column;
     justify-content: center;
     height: 300px;
-    width: 300px
+    width: 300px;
+    flex: 0 0 auto;
 }
 
 .i{
@@ -86,6 +87,7 @@ ul{
     align-items: center;
     height: 300px;
     width: 300px;
+    flex: 0 0 auto;
 }
 
 .content,
