@@ -111,3 +111,7 @@ ul{
 img{
     max-width: fit-content;
 }
+
+a{
+    color: white;
+}
