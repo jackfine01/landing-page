@@ -134,8 +134,6 @@ a{
     display: flex;
     flex-direction: column;
     padding: 8px;
-    height: 225px;
-    width: 225px;
 }
 
 .sub-pic{
